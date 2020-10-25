@@ -8,7 +8,7 @@ def hello():
     print("Hello tkinter Buttons")
 
 def name():
-    print("Name is harry")
+    print("Name is jassica")
 
 def jassica():
     print("surname=jain")
